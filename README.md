@@ -1,4 +1,4 @@
-# Dekai Zheng
+# kinolo
 
 Software Engineer
 
@@ -10,4 +10,4 @@ Interested in:
 - AI Infrastructure
 - Backend Systems
 
-Email: [u202217216@alumni.hust.edu.cn](mailto:u202217216@alumni.hust.edu.cn)
+Email: kinolo@qq.com
